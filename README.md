@@ -1,5 +1,14 @@
+<div align="center">
+
+<a href="https://www.parleapp.fr/"><img src="assets/parle-icon.png" width="96" alt="Parle"></a>
 
 # Parle French Sounds
+
+**The French vowels, mouth by mouth**
+
+[parleapp.fr](https://www.parleapp.fr/) · [App Store](https://apps.apple.com/app/id6447072574) · [Google Play](https://play.google.com/store/apps/details?id=io.parle.parleapp) · [Hugging Face](https://huggingface.co/Parle-App)
+
+</div>
 
 A small teaching dataset of French pronunciation from [Parle](https://www.parleapp.fr/), the French pronunciation app. It powers the sound guide on [parleapp.fr](https://www.parleapp.fr/french-pronunciation-app/) and the sound lessons inside the app.
 
